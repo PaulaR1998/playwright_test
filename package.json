@@ -1,0 +1,16 @@
+{
+  "name": "voidr-playwright-tests",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx playwright test"
+  },
+  "author": "Paula Rafaela de Castro",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@playwright/test": "^1.47.2",
+    "@types/node": "^22.7.2",
+    "typescript": "^5.6.2"
+  }
+}
